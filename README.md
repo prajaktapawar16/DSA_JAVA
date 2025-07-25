@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1894-merge-strings-alternately](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
