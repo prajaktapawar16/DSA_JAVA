@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [1894-merge-strings-alternately](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
