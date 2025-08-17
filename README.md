@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0189-rotate-array) |
 | [1894-merge-strings-alternately](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
