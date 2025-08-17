@@ -18,7 +18,6 @@ class Solution {
             int waterlevel=Math.min(leftmax[i],rightmax[i]);
             trap+=waterlevel-height[i];
         }
-        return trap;
-        
+        return trap;  
     }
 }
