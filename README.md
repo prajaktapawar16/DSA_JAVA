@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [1894-merge-strings-alternately](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/1894-merge-strings-alternately) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/prajaktapawar16/DSA_JAVA/tree/master/0169-majority-element) |
 ## Hash Table
